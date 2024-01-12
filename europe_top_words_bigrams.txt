@@ -1,0 +1,24 @@
+
+Top Words in Europe:
+AI: 90
+systems: 32
+EU: 30
+conformity: 27
+European: 25
+rules: 22
+Article: 22
+Act: 20
+system: 20
+standards: 18
+
+ Top Bigrams in Europe:
+('AI', 'systems'): 16
+('AI', 'system'): 15
+('highrisk', 'AI'): 12
+('Artificial', 'Intelligence'): 11
+('conformity', 'assessment'): 11
+('CE', 'marking'): 10
+('AI', 'Act'): 9
+('Intelligence', 'Act'): 8
+('trustworthy', 'AI'): 7
+('products', 'services'): 7

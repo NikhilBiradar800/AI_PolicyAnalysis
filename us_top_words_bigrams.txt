@@ -1,0 +1,23 @@
+Top Words in US:
+AI: 699
+systems: 181
+research: 180
+RD: 170
+data: 152
+National: 146
+Artificial: 115
+Intelligence: 114
+Research: 79
+Strategic: 76
+
+Top Bigrams in US:
+('Artificial', 'Intelligence'): 113
+('AI', 'systems'): 107
+('Strategic', 'Plan'): 74
+('National', 'Artificial'): 68
+('AI', 'RD'): 66
+('RD', 'Strategic'): 62
+('Intelligence', 'RD'): 54
+('United', 'States'): 32
+('AI', 'research'): 29
+('federal', 'government'): 26
