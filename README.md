@@ -4,7 +4,6 @@
 
 This project focuses on analyzing the recent positions of leading countries in the realm of Artificial Intelligence (AI), specifically China, Europe, and the United States. The analysis involves extracting insights from provided documents, categorized into "Main sources" and "Additional sources."
 
-While these documents may not fully represent the countries' policies and strategies, due to time constraints, students are advised to prioritize the provided materials.
 
 ## Technology and Dependencies
 
